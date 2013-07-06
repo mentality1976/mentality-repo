@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addons>
+<addon id="MENTALITY.repo"
+		name="MENTALITY Eklenti Deposu"
+		version="0.0.1"
+		provider-name="MENTALITY">
+	<extension point="xbmc.addon.repository" name="MENTALITY Add-on Repository">
+		<info compressed="false">http://mentality-repo.googlecode.com/svn/trunk/addons.xml</info>
+		<checksum>http://mentality-repo.googlecode.com/svn/trunk/addons.xml.md5</checksum>
+		<datadir zip="true">http://mentality-repo.googlecode.com/svn/trunk/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">Install Add-ons from XBMCTRSKYMC Add-on Repository</summary>
+		<summary lang="tr">MENTALITY Kurulum ve Guncelleme Deposu.</summary>
+		<description lang="en">Video plug-ins and Movie info scrapers for XBMC</description>
+		<description lang="de">Original addon fürr My-Entertainment und scraper fürr stream-oase.biz</description>
+		<disclaimer lang="de">MENTALITY's xbmc plugins</disclaimer>
+		<platform>all</platform>
+	</extension>
+</addon>
+
+<addon id="plugin.video.beceriksizler"
+       name="Beceriksizler HD MOVIES"
+       version="0.4.2.0"
+       provider-name="mentality">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.beautifulsoup" version="3.2.0"/>
+    <import addon="script.module.mechanize" version="0.2.5"/>
+    <import addon="script.module.urlresolver" version="0.0.1"/>
+    <import addon="script.module.t0mm0.common" version="1.1.0"/>
+	  </requires>
+  <extension point="xbmc.python.pluginsource"
+            library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>HD MOVIES</summary>
+    <description>mit Hilfe von xbmctr.com</description>
+    <description>Mightyupload wurde gefixt!!!</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="plugin.video.MyEntertainment"
+       name="My-Entertainment.biz"
+       version="1.6"
+       provider-name="mentality">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.beautifulsoup" version="3.2.0"/>
+    <import addon="script.module.mechanize" version="0.2.5"/>
+    <import addon="script.module.urlresolver" version="1.0.1"/>
+	  </requires>
+  <extension point="xbmc.python.pluginsource"
+            library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>Nur fuer Premium Member</summary>
+    <description>mit Hilfe von xbmctr.com</description>
+    <description>Komplettversion!!! Alle Filme die auf der Seite gehen, gehen hier nun auch ohne Einschraenkung.
+    Mentality und My-Entertainment wuenschen euch viel Spass!!!</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+</addons>
