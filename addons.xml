@@ -21,7 +21,7 @@
 
 <addon id="plugin.video.beceriksizler"
        name="Beceriksizler HD MOVIES"
-       version="0.4.2.0"
+       version="0.4.2.1"
        provider-name="mentality">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
