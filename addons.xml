@@ -44,7 +44,7 @@
 
 <addon id="plugin.video.MyEntertainment"
        name="My-Entertainment.biz"
-       version="1.6"
+       version="1.7"
        provider-name="mentality">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
@@ -59,7 +59,7 @@
   <extension point="xbmc.addon.metadata">
     <summary>Nur fuer Premium Member</summary>
     <description>mit Hilfe von xbmctr.com</description>
-    <description>Komplettversion!!! Alle Filme die auf der Seite gehen, gehen hier nun auch ohne Einschraenkung.
+    <description>Komplettversion!!! Youtube Trailer mit eingebaut.
     Mentality und My-Entertainment wuenschen euch viel Spass!!!</description>
     <platform>all</platform>
   </extension>
