@@ -21,13 +21,13 @@
 
 <addon id="plugin.video.beceriksizler"
        name="Beceriksizler HD MOVIES"
-       version="0.4.2.2"
+       version="0.4.3.0"
        provider-name="mentality">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
     <import addon="script.module.beautifulsoup" version="3.2.0"/>
     <import addon="script.module.mechanize" version="0.2.5"/>
-    <import addon="script.module.urlresolver" version="0.0.1"/>
+    <!-- <import addon="script.module.urlresolver" version="0.0.1"/> -->
     <import addon="script.module.t0mm0.common" version="1.1.0"/>
 	  </requires>
   <extension point="xbmc.python.pluginsource"
@@ -36,8 +36,9 @@
   </extension>
   <extension point="xbmc.addon.metadata">
     <summary>HD MOVIES</summary>
-    <description>mit Hilfe von xbmctr.com</description>
-    <description>My-Entertainment wurde getrennt. Mightyupload wurde gefixt!!!</description>
+    <description lang="de">mit Hilfe von xbmctr.com
+Stream-Oase hat eine Datenban Funktion erhalten. Dadurch mehr möglichkeiten!!!
+Mentality wünscht euch viel Spaß !!!!</description>
     <platform>all</platform>
   </extension>
 </addon>
