@@ -43,6 +43,25 @@ Mentality wünscht euch viel Spaß !!!!</description>
   </extension>
 </addon>
 
+<addon id="plugin.video.Dokuhouse"
+       name="Dokuhouse"
+       version="0.1"
+       provider-name="Mentality">
+  <requires>
+    <import addon="xbmc.python" version="1.0"/>
+	  </requires>
+  <extension point="xbmc.python.pluginsource"
+            library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>Mentality stellt vor</summary>
+    <description lang="de">Ein Seite für Dokumentationen.
+~~~Mentality wuenscht euch viel Spass~~~</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
 <addon id="plugin.video.MyEntertainment"
        name="My-Entertainment.biz"
        version="1.8"
