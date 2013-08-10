@@ -1,0 +1,4 @@
+Version 1.0.1
+ Nun sollte das Plugin auf allen Geräten funktionieren!!!
+Version 1.0.0
+ initial Release. Official Plugin for www.Stream-Oase.tv
