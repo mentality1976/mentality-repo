@@ -1,3 +1,5 @@
+Version 1.0.2
+ Die Serien wurden implementiert, kleinere fixes.
 Version 1.0.1
  Nun sollte das Plugin auf allen Geräten funktionieren!!!
 Version 1.0.0

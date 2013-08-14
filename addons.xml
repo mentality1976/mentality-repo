@@ -64,7 +64,7 @@ Mentality wünscht euch viel Spaß !!!!</description>
 
 <addon id="plugin.video.MyEntertainment"
        name="My-Entertainment.biz"
-       version="1.8"
+       version="1.8.1"
        provider-name="mentality">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
@@ -80,7 +80,7 @@ Mentality wünscht euch viel Spaß !!!!</description>
     <summary>Nur fuer Premium Member</summary>
     <description lang="de">mit Hilfe von xbmctr.com
 
-HD Serien wurden implementiert. Die Collections sollten jetzt schneller laden.
+Kategoerie Serien wurden komplett rausgenommen.
 Mentality und My-Entertainment wünschen euch viel Spaß!!!</description>
     <platform>all</platform>
   </extension>
@@ -88,7 +88,7 @@ Mentality und My-Entertainment wünschen euch viel Spaß!!!</description>
 
 <addon id="plugin.video.Stream-Oase.tv"
        name="Stream-Oase.tv"
-       version="1.0.1"
+       version="1.0.2"
        provider-name="mentality">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
@@ -103,8 +103,8 @@ Mentality und My-Entertainment wünschen euch viel Spaß!!!</description>
   </extension>
   <extension point="xbmc.addon.metadata">
     <summary>HD MOVIES</summary>
-    <description lang="de">Erst das Eine, Leute das Plugin sollte jetzt auf allen Geräten problemlos funktionieren.
-Offizieller Plugin Für www.Stream-Oase.tv!!!
+    <description lang="de">Die Serien wurden implementiert, kleinere fixes.
+Offizielles Plugin Für www.Stream-Oase.tv!!!
 Mentality und Stream-Oase wünschen euch viel Spaß !!!!</description>
     <platform>all</platform>
   </extension>

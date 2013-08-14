@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="plugin.video.Stream-Oase.tv"
        name="Stream-Oase.tv"
-       version="1.0.1"
+       version="1.0.2"
        provider-name="mentality">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
@@ -16,8 +16,8 @@
   </extension>
   <extension point="xbmc.addon.metadata">
     <summary>HD MOVIES</summary>
-    <description lang="de">Erst das Eine, Leute das Plugin sollte jetzt auf allen Geräten problemlos funktionieren. 
-Offizieller Plugin Für www.Stream-Oase.tv!!!
+    <description lang="de">Die Serien wurden implementiert, kleinere fixes. 
+Offizielles Plugin Für www.Stream-Oase.tv!!!
 Mentality und Stream-Oase wünschen euch viel Spaß !!!!</description>
     <platform>all</platform>
   </extension>
