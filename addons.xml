@@ -88,7 +88,7 @@ Mentality und My-Entertainment wünschen euch viel Spaß!!!</description>
 
 <addon id="plugin.video.Stream-Oase.tv"
        name="Stream-Oase.tv"
-       version="1.0.3.2"
+       version="1.0.3.3"
        provider-name="mentality">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
