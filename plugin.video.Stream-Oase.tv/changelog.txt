@@ -1,3 +1,7 @@
+Version 1.0.3
+ Die Cartoons wurden implementiert
+ Die Datenbank erkent jetzt zu 99% der Fanarts/Hintergründe
+ Datenbank wurde erweitert auf Inhalt,Darsteller,IMDB,FSK
 Version 1.0.2
  Die Serien wurden implementiert, kleinere fixes.
 Version 1.0.1
