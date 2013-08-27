@@ -1,3 +1,5 @@
+Version 1.0.3.4
+ Suchfunktion gefixt!
 Version 1.0.3.3
  Fehler behoben
 Version 1.0.3.2

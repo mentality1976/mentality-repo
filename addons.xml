@@ -87,7 +87,7 @@ Mentality und My-Entertainment wünschen euch viel Spaß!!!</description>
 
 <addon id="plugin.video.Stream-Oase.tv"
        name="Stream-Oase.tv"
-       version="1.0.3.3"
+       version="1.0.3.4"
        provider-name="mentality">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
@@ -102,7 +102,7 @@ Mentality und My-Entertainment wünschen euch viel Spaß!!!</description>
   </extension>
   <extension point="xbmc.addon.metadata">
     <summary>HD MOVIES</summary>
-    <description lang="de">Die Cartoons wurden implementiert, Datenbank wurde erweitert auf Inhalt. Wenn Ihr in XBMC auf die Tasta "I" drückt seht Ihr Info.
+    <description lang="de">Suchfunktion gefixt. Die Cartoons wurden implementiert, Datenbank wurde erweitert auf Inhalt. Wenn Ihr in XBMC auf die Tasta "I" drückt seht Ihr Info.
 Offizielles Plugin Für www.Stream-Oase.tv!!!
 Mentality und Stream-Oase wünschen euch viel Spaß !!!!</description>
     <platform>all</platform>
