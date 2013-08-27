@@ -1,3 +1,5 @@
+Version 1.8.3
+ Ein unerklaerlicher Fehler mit dem Login wurde behoben
 Version 1.8.2
  Auf Anfrage wurde die Kategorie Century implementiert.
 Version 1.8.1
