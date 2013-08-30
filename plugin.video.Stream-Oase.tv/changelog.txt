@@ -1,3 +1,5 @@
+Version 1.0.3.8
+ Der VideoSlasher Hoster ist eingepflegt, war das ein Kampf! Frische Database!
 Version 1.0.3.7
  VideoSlasher wurde implementiert, die neue Serien koennt ihr jetzt auch schauen.
 Version 1.0.3.6 
