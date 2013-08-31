@@ -1,3 +1,5 @@
+Version 1.8.4
+ Wegen einlogprobleme des Plugins kleines Update.
 Version 1.8.3
  Ein unerklaerlicher Fehler mit dem Login wurde behoben
 Version 1.8.2
