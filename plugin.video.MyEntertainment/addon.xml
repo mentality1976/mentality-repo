@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="plugin.video.MyEntertainment"
        name="My-Entertainment.biz"
-       version="1.8.5.1"
+       version="1.8.5.2"
        provider-name="mentality">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
@@ -16,7 +16,7 @@
   <extension point="xbmc.addon.metadata">
     <summary>Nur fuer Premium Member</summary>
     <description lang="de">
-Keiner Fehler eingeschlichen Sorry!!!
+Mehrere kleine Fehler behoben!!!
 Die Serien stecken jetzt in Staffel Ordnern.
 Mentality und My-Entertainment wünschen euch viel Spaß!!!</description>
     <platform>all</platform>
