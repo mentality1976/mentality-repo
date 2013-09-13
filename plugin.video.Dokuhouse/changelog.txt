@@ -1,3 +1,5 @@
+Version 0.3
+ Kleinere Verbesserungen
 Version 0.2
  Kleinere Verbesserungen
 Version 0.1
