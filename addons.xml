@@ -64,7 +64,7 @@ Mentality wünscht euch viel Spaß !!!!</description>
 
 <addon id="plugin.video.MyEntertainment"
        name="My-Entertainment.biz"
-       version="1.8.5.3"
+       version="1.8.6"
        provider-name="mentality">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
@@ -79,8 +79,9 @@ Mentality wünscht euch viel Spaß !!!!</description>
   <extension point="xbmc.addon.metadata">
     <summary>Nur fuer Premium Member</summary>
     <description lang="de">
-Fehler mit denSerien behoben!!!
-Die Serien stecken jetzt in Staffel Ordnern.
+Plugin wieder Lauffaehig nach Webseitenaenderung.
+Fix kommt vom Premium-Member Sage.
+Endlich Unterstützung!!!
 Mentality und My-Entertainment wünschen euch viel Spaß!!!</description>
     <platform>all</platform>
   </extension>
