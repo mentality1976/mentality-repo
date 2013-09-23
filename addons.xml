@@ -88,7 +88,7 @@ Mentality und My-Entertainment wünschen euch viel Spaß!!!</description>
 
 <addon id="plugin.video.Stream-Oase.tv"
        name="Stream-Oase.tv"
-       version="1.0.3.9.1"
+       version="1.0.4.0"
        provider-name="mentality">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
@@ -103,7 +103,7 @@ Mentality und My-Entertainment wünschen euch viel Spaß!!!</description>
   </extension>
   <extension point="xbmc.addon.metadata">
     <summary>HD MOVIES</summary>
-    <description lang="de">Scraper für mightyupload wurde korrigiert.Paar kleine fixes und eine frische Datenbank!!!
+    <description lang="de">Livestreams Update.Paar kleine fixes und eine frische Datenbank!!!
 Mentality und Stream-Oase wünschen euch viel Spaß !!!!</description>
     <platform>all</platform>
   </extension>
