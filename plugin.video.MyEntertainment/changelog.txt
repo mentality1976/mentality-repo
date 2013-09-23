@@ -1,3 +1,5 @@
+Version 1.8.6.1
+ Fehlerteufel eingeschlichen!!!
 Version 1.8.6
  Plugin wieder Lauffaehig nach Webseitenaenderung. Fix kommt vom Premium-Member Sage.
  Endlich Unterstuetzung ;-)
