@@ -64,7 +64,7 @@ Mentality wünscht euch viel Spaß !!!!</description>
 
 <addon id="plugin.video.MyEntertainment"
        name="My-Entertainment.biz"
-       version="1.8.6.1"
+       version="1.8.6.2"
        provider-name="mentality">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
@@ -80,8 +80,7 @@ Mentality wünscht euch viel Spaß !!!!</description>
     <summary>Nur fuer Premium Member</summary>
     <description lang="de">
 Plugin wieder Lauffähig nach Webseitenänderung.
-Fix kommt vom Premium-Member Sage.
-Endlich Unterstützung!!!
+Sorry das ich nicht gleich reagieren kann!!!
 Mentality und My-Entertainment wünschen euch viel Spaß!!!</description>
     <platform>all</platform>
   </extension>
