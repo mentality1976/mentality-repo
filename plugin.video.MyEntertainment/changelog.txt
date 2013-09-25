@@ -1,3 +1,5 @@
+Version 1.8.6.3
+ Jetzt sollte alles funktionieren.
 Version 1.8.6.2
  Plugin wieder Lauffähig nach Webseitenänderung. 
 Version 1.8.6.1
