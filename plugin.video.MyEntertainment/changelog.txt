@@ -1,3 +1,5 @@
+Version 1.8.6.4
+ Die Suchfunktion gefixt!!!
 Version 1.8.6.3
  Jetzt sollte alles funktionieren.
 Version 1.8.6.2
