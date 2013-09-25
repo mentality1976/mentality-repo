@@ -64,7 +64,7 @@ Mentality wünscht euch viel Spaß !!!!</description>
 
 <addon id="plugin.video.MyEntertainment"
        name="My-Entertainment.biz"
-       version="1.8.6.4"
+       version="1.8.6.5"
        provider-name="mentality">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
@@ -81,6 +81,7 @@ Mentality wünscht euch viel Spaß !!!!</description>
     <description lang="de">
 Jetzt sollte alles funktionieren.
 Diesmal ist auch die SuFu gefixt!!!
+Cineline in IMDB Kategorien gefixt!!!
 Plugin wieder Lauffähig nach Webseitenänderung.
 Sorry das ich nicht gleich reagieren kann!!!
 Mentality und My-Entertainment wünschen euch viel Spaß!!!</description>

@@ -1,3 +1,5 @@
+Version 1.8.6.5
+ Cineline in IMDB kategorien gefixt!!!
 Version 1.8.6.4
  Die Suchfunktion gefixt!!!
 Version 1.8.6.3
