@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="plugin.video.MyEntertainment"
        name="My-Entertainment.biz"
-       version="1.8.6.7"
+       version="1.8.6.8"
        provider-name="mentality">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
@@ -16,7 +16,7 @@
   <extension point="xbmc.addon.metadata">
     <summary>Nur fuer Premium Member</summary>
     <description lang="de">
-Sooo Leute, damit Ihr nicht schmachtern müßt habe ich mal kurz eine voll funktionstüchtige übergangslösung für euch mal bereit gestellt. Wenn die Seite irgendwann fertig sein sollte werde ich das Plugin auch umbenennen müssen, dann müsst ihr das alte my-entertainment plugin deinstallieren und das neue von der Repo installieren. Aber bis dahin machen wir so weiter ;-) .
+Und noch ein Update, ich hoffe ab jetzt geht es bei allen. Das einzige was jetzt geändert wurde ist der HostUrl.
 Mentality und My-Entertainment wünschen euch viel Spaß!!!</description>
     <platform>all</platform>
   </extension>

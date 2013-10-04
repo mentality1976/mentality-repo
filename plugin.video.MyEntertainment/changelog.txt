@@ -1,3 +1,5 @@
+Version 1.8.6.8
+ Und noch ein Update, ich hoffe ab jetzt geht es bei allen. Das einzige was jetzt geändert wurde ist der HostUrl.
 Version 1.8.6.7
  Voll funktionierendes uebergangsplugin bis auf der Seite sich alles gerichtet hat.
 Version 1.8.6.6
