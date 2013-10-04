@@ -1,3 +1,5 @@
+Version 1.8.6.7
+ Voll funktionierendes uebergangsplugin bis auf der Seite sich alles gerichtet hat.
 Version 1.8.6.6
  Plugin wieder Lauffaehig nach Webseitenaenderung. Fix kommt vom Premium-Member Sage.
  Noch ein paar kleine Veraenderungen von mir. Wieder Verbesserungen wegen den deutschen Buchstaben, wurde irgendwas veraendert!!!
