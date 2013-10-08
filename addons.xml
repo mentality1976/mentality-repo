@@ -85,6 +85,26 @@ Mentality und EVONIC wünschen euch viel Spaß!!!</description>
   </extension>
 </addon>
 
+<addon id="plugin.video.MLE-HD"
+       name="MLE-HD"
+       version="0.1"
+       provider-name="Mentality">
+  <requires>
+    <import addon="xbmc.python" version="1.0"/>
+    <import addon="script.module.beautifulsoup" version="3.2.0"/>
+	  </requires>
+  <extension point="xbmc.python.pluginsource"
+            library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>Mentality stellt vor</summary>
+    <description lang="de">Videos von MLE-HD
+~~~Mentality wünscht euch viel Spass~~~</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
 <addon id="plugin.video.MyEntertainment"
        name="My-Entertainment.biz"
        version="1.8.6.8"
