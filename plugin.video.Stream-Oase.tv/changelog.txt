@@ -1,3 +1,5 @@
+Version 1.1.1
+ Kleine Fehler!!!
 Version 1.1
  Komplette Design aenderung im Code, naja fuer Enduser nicht ersichtlich. Ich hoffe das es ab jetzt noch besser laufen wird.
  Umstellung des Einlesen von XML ueber dom XML parser. 
