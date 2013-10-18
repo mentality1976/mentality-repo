@@ -1,3 +1,7 @@
+Version 1.1
+ Komplette Design aenderung im Code, naja fuer Enduser nicht ersichtlich. Ich hoffe das es ab jetzt noch besser laufen wird.
+ Umstellung des Einlesen von XML ueber dom XML parser. 
+ Frische Datenbank!!!
 Version 1.0.4.0
  Livestreams Update.Paar kleine fixes und eine frische Datenbank!!!
 Version 1.0.3.9.1 
