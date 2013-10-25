@@ -1,4 +1,6 @@
 Version 0.1
+ Search option implemented
+Version 0.1
  initial
 
 Version 

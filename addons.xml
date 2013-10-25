@@ -40,7 +40,7 @@
 
 <addon id="plugin.video.Beeg"
        name="Beeg.com"
-       version="0.1"
+       version="0.2"
        provider-name="Mentality">
   <requires>
     <import addon="xbmc.python" version="1.0"/>
@@ -51,14 +51,17 @@
   </extension>
   <extension point="xbmc.addon.metadata">
     <summary>Mentality stellt vor</summary>
-    <description>~~~Mentality wuenscht euch viel Spass~~~</description>
+    <description lang="de">Suche wurde implementiert
+~~~Mentality wünscht euch viel Spaß~~~</description>
+    <description lang="en">Search was implemented
+~~~Have Fun!!! Mentality~~~</description>
     <platform>all</platform>
   </extension>
 </addon>
 
 <addon id="plugin.video.Dokuhouse"
        name="Dokuhouse"
-       version="0.3"
+       version="0.4"
        provider-name="Mentality">
   <requires>
     <import addon="xbmc.python" version="1.0"/>
@@ -69,15 +72,17 @@
   </extension>
   <extension point="xbmc.addon.metadata">
     <summary>Mentality stellt vor</summary>
-    <description lang="de">Eine Seite für Dokumentationen.
+    <description lang="de">Suche wurde implementiert
 ~~~Mentality wünscht euch viel Spaß~~~</description>
+    <description lang="en">Search was implemented
+~~~Have Fun!!! Mentality~~~</description>
     <platform>all</platform>
   </extension>
 </addon>
 
 <addon id="plugin.video.Evonic"
        name="Evonic"
-       version="1.1"
+       version="1.1.1"
        provider-name="mentality">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
