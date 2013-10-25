@@ -1,3 +1,5 @@
+Version 1.1
+ Auf Anfrage wurden die Linknamen denen im Board angepasst!!!
 Version 1.0
  Offizielles Plugin fuer evonic.tv
 

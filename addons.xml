@@ -77,7 +77,7 @@
 
 <addon id="plugin.video.Evonic"
        name="Evonic"
-       version="1.0"
+       version="1.1"
        provider-name="mentality">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
@@ -92,7 +92,7 @@
   <extension point="xbmc.addon.metadata">
     <summary>Nur fuer Premium Member</summary>
     <description lang="de">
-Offizielles Plugin für evonic.tv
+Auf Anfrage wurden die Linkname denen im Board angepasst!!!
 Mentality und EVONIC wünschen euch viel Spaß!!!</description>
     <platform>all</platform>
   </extension>
