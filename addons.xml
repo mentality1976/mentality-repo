@@ -168,4 +168,22 @@ Mentality und Stream-Oase wünschen euch viel Spaß !!!!</description>
     <platform>all</platform>
   </extension>
 </addon>
+
+<addon id="plugin.video.xorion"
+       name="-- XorioN --"
+       version="2.0.1"
+       provider-name="XorioN">
+  <requires>
+    <import addon="xbmc.python" version="2.0"/>
+	  </requires>
+  <extension point="xbmc.python.pluginsource" provides="video" library="xorion.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>SeyirTurk Portallari</summary>
+    <description>Hazırlayan: XorioN  - SeyirTURK portalları kullanılmıştır.</description>
+
+    <platform>all</platform>
+  </extension>
+</addon>
 </addons>
