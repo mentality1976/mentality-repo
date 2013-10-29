@@ -1,3 +1,5 @@
+Version 1.2
+ Finally the ajaxsearch is implemented. Big thanks to reeZZer!!!
 Version 1.1.2
  Collections wieder vollstaendig.
 Version 1.1.1
