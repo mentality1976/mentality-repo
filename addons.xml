@@ -82,7 +82,7 @@
 
 <addon id="plugin.video.Evonic"
        name="Evonic"
-       version="1.2"
+       version="1.2.1"
        provider-name="mentality">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
