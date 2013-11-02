@@ -1,3 +1,5 @@
+Version 1.2.2
+ Can choose which links you want to show. Regards to dude!!!
 Version 1.2.1
  little bug fixed.
 Version 1.2
