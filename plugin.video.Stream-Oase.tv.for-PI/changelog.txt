@@ -1,2 +1,4 @@
+Version 1.0.1
+ Hoster VK.COM wurde implementiert, kleinere Verbesserungen und eine frische Datenbank!!!
 Version 1.0
  initial Release of Pi-Version. Official Plugin for www.Stream-Oase.tv, specially for weak configured systems like Raspberry Pi!!!

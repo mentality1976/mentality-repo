@@ -1,3 +1,5 @@
+Version 1.1.2
+ Hoster VK.COM wurde implementiert, kleinere Verbesserungen und eine frische Datenbank!!!
 Version 1.1.1
  Kleine Fehler!!!
 Version 1.1

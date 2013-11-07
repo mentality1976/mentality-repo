@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="plugin.video.Stream-Oase.tv"
        name="Stream-Oase.tv"
-       version="1.1.1"
+       version="1.1.2"
        provider-name="mentality">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
@@ -16,7 +16,7 @@
   </extension>
   <extension point="xbmc.addon.metadata">
     <summary>HD MOVIES</summary>
-    <description lang="de">Design änderungen im Code.Bessere Performance. Es gibt jetzt eine spezielle Version Welches für die schwächeren Systeme wie das Raspberry Pi gedacht sind. Zu Schluss noch eine frische Datenbank!!!
+    <description lang="de">Hoster VK.COM wurde implementiert, kleinere Verbesserungen und eine frische Datenbank!!!
 Mentality und Stream-Oase wünschen euch viel Spaß !!!!</description>
     <platform>all</platform>
   </extension>
