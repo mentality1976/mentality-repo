@@ -1,3 +1,5 @@
+Version 1.0.2
+ Fluechtigkeitsfehler!!!
 Version 1.0.1
  Hoster VK.COM wurde implementiert, kleinere Verbesserungen und eine frische Datenbank!!!
 Version 1.0
