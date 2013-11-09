@@ -1,3 +1,5 @@
+Version 1.2.5
+ Admins again
 Version 1.2.4
  Fixes
 Version 1.2.3
