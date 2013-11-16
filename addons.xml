@@ -155,7 +155,7 @@ Mentality and EVONIC are presenting!!!</description>
 
 <addon id="plugin.video.Stream-Oase.tv"
        name="Stream-Oase.tv"
-       version="1.1.4"
+       version="1.1.5"
        provider-name="mentality">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
@@ -170,7 +170,7 @@ Mentality and EVONIC are presenting!!!</description>
   </extension>
   <extension point="xbmc.addon.metadata">
     <summary>HD MOVIES</summary>
-    <description lang="de">Nebenbei haben die auch noch das Login verändert. Hoster VK.COM wurde implementiert, kleinere Verbesserungen und eine frische Datenbank!!!
+    <description lang="de">Dank redmoon ist das Plugin jetzt noch schneller beim updaten der Filme. Livestreams aktualisiert!!!
 Mentality und Stream-Oase wünschen euch viel Spaß !!!!</description>
     <platform>all</platform>
   </extension>
@@ -178,7 +178,7 @@ Mentality und Stream-Oase wünschen euch viel Spaß !!!!</description>
 
 <addon id="plugin.video.Stream-Oase.tv.for-PI"
        name="Stream-Oase.tv.for-PI"
-       version="1.0.3"
+       version="1.0.4"
        provider-name="mentality">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
@@ -193,7 +193,7 @@ Mentality und Stream-Oase wünschen euch viel Spaß !!!!</description>
   </extension>
   <extension point="xbmc.addon.metadata">
     <summary>HD MOVIES</summary>
-    <description lang="de">Nebenbei wurde das Login mal verändert, geht wieder. Hoster VK.COM wurde implementiert, kleinere Verbesserungen und eine frische Datenbank!!!
+    <description lang="de">Dank redmoon ist das Plugin jetzt noch schneller beim updaten der Filme. Livestreams aktualisiert!!!
 Mentality und Stream-Oase wünschen euch viel Spaß !!!!</description>
     <platform>all</platform>
   </extension>
