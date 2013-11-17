@@ -1,3 +1,7 @@
+Version 1.2.7
+ Das Modul Mechanize ist komplett aus dem Plugin gebannt worden.
+ Performance fresser ohne Ende. Ich hoffe es wird ab jetzt etwas
+ schneller laufen.
 Version 1.2.6
  Doppelte Collections behoben!
 Version 1.2.5
