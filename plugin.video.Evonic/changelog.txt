@@ -1,3 +1,5 @@
+Version 1.2.8
+ Little bugfix!
 Version 1.2.7
  Das Modul Mechanize ist komplett aus dem Plugin gebannt worden.
  Performance fresser ohne Ende. Ich hoffe es wird ab jetzt etwas

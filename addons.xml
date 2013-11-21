@@ -104,7 +104,7 @@ lütfen Klasörün içindeki INFO.txt okuyun</description>
 
 <addon id="plugin.video.Evonic"
        name="Evonic"
-       version="1.2.7"
+       version="1.2.8"
        provider-name="mentality">
     <requires>
         <import addon="xbmc.python" version="2.1.0"/>
@@ -118,7 +118,7 @@ lütfen Klasörün içindeki INFO.txt okuyun</description>
         <summary>Nur fuer Premium Member</summary>
         <description lang="de">
             Ich hoffe die Performance ist jetzt ein bisschen
-besse. Habe das Modul komplett vom Plugin gebannt.
+besser. Habe das Modul komplett vom Plugin gebannt.
 Endlich ist die Ajaxsuche implementiert, Riesiger Dank geht
 an reeZZer!!!
 Mentality und EVONIC wünschen euch viel Spaß!!!</description>
