@@ -83,7 +83,7 @@ lütfen Klasörün içindeki INFO.txt okuyun</description>
 
 <addon id="plugin.video.Dokuhouse"
        name="Dokuhouse"
-       version="0.4"
+       version="0.5"
        provider-name="Mentality">
   <requires>
     <import addon="xbmc.python" version="1.0"/>
@@ -132,7 +132,7 @@ Mentality and EVONIC are presenting!!!</description>
 
 <addon id="plugin.video.MLE-HD"
        name="MLE-HD"
-       version="0.1"
+       version="0.2"
        provider-name="Mentality">
   <requires>
     <import addon="xbmc.python" version="1.0"/>

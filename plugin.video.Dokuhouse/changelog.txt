@@ -1,4 +1,6 @@
 Version 0.4
+ lauft wieder.
+Version 0.4
  Suche wurde implementiert
 Version 0.3
  Kleinere Verbesserungen
