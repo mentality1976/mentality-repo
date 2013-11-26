@@ -132,7 +132,7 @@ Mentality and EVONIC are presenting!!!</description>
 
 <addon id="plugin.video.MLE-HD"
        name="MLE-HD"
-       version="0.2"
+       version="0.3"
        provider-name="Mentality">
   <requires>
     <import addon="xbmc.python" version="1.0"/>
@@ -144,7 +144,7 @@ Mentality and EVONIC are presenting!!!</description>
   </extension>
   <extension point="xbmc.addon.metadata">
     <summary>Mentality stellt vor</summary>
-    <description lang="de">Videos von MLE-HD
+    <description lang="de">Habe mal einen Login implementiert!!!
 ~~~Mentality wünscht euch viel Spass~~~</description>
     <platform>all</platform>
   </extension>
