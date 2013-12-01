@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="plugin.audio.CatlaEmi"
        name="CatlaEmi"
-       version="0.1"
+       version="0.2"
        provider-name="Mentality">
     <requires>
         <import addon="xbmc.python" version="2.1.0"/>
         <import addon="script.module.beautifulsoup" version="3.2.0"/>
-        <import addon="script.module.mutagen" version="1.22.0"/>
     </requires>
     <extension point="xbmc.python.pluginsource"
         library="default.py">
@@ -14,9 +13,8 @@
     </extension>
     <extension point="xbmc.addon.metadata">
         <summary>Mentality stellt vor</summary>
-        <description>~~~Mentality wuenscht euch viel Spass~~~</description>
-        <description lang="tr">~~~Mentality bol eğlenceli dinleme diler~~~
-lütfen Klasörün içindeki INFO.txt okuyun</description>
+        <description>20000'i geckin mp3 ve 92 sanatci bulunmakta
+~~~Mentality wuenscht euch viel Spass~~~</description>
         <platform>all</platform>
     </extension>
 </addon>

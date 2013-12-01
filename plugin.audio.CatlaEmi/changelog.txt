@@ -1,4 +1,6 @@
+Version 0.2
+ 20000'i geckin mp3 ve 92 sanatcinin tum albumleri
 Version 0.1
- CatlaEmiyi tekrar canlandiralim dedim.
+ initial
 
 Version 
