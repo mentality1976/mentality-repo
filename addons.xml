@@ -21,11 +21,12 @@
 
 <addon id="plugin.audio.CatlaEmi"
        name="CatlaEmi"
-       version="0.2"
+       version="0.2.1"
        provider-name="Mentality">
     <requires>
         <import addon="xbmc.python" version="2.1.0"/>
         <import addon="script.module.beautifulsoup" version="3.2.0"/>
+        <import addon="script.module.simple.downloader" version="1.9.4"/>
     </requires>
     <extension point="xbmc.python.pluginsource"
         library="default.py">
@@ -33,7 +34,7 @@
     </extension>
     <extension point="xbmc.addon.metadata">
         <summary>Mentality stellt vor</summary>
-        <description>20000'i geckin mp3 ve 92 sanatci bulunmakta
+        <description>Fare ile sag tikla, download mp3 yada download album. Evet artik indirebiliyorsunuz :-) !!!
 ~~~Mentality wuenscht euch viel Spass~~~</description>
         <platform>all</platform>
     </extension>
@@ -150,7 +151,7 @@ Mentality and EVONIC are presenting!!!</description>
 
 <addon id="plugin.video.Stream-Oase.tv"
        name="Stream-Oase.tv"
-       version="1.1.5"
+       version="1.1.6"
        provider-name="mentality">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
@@ -165,7 +166,7 @@ Mentality and EVONIC are presenting!!!</description>
   </extension>
   <extension point="xbmc.addon.metadata">
     <summary>HD MOVIES</summary>
-    <description lang="de">Dank redmoon ist das Plugin jetzt noch schneller beim updaten der Filme. Livestreams aktualisiert!!!
+    <description lang="de">Jaaa, die Kategorie Komödie sollte wieder gehen.Immer wenn ich update machen möchte ist boss livestream nie online. Der sollte mir mal seinen direkten veetle Link zuschicken sonst kriege ich den nicht rein!!!
 Mentality und Stream-Oase wünschen euch viel Spaß !!!!</description>
     <platform>all</platform>
   </extension>

@@ -1,3 +1,5 @@
+Version 0.2.1
+ Download options for single mp3 and album implemented.
 Version 0.2
  20000'i geckin mp3 ve 92 sanatcinin tum albumleri
 Version 0.1

@@ -1,3 +1,5 @@
+Version 1.1.6
+ Komodie funktioniert wieder!!!
 Version 1.1.5
  Dank redmoon ist das Plugin jetzt noch schneller beim updaten der Filme. Livestreams aktualisiert!!!
 Version 1.1.4
