@@ -1,3 +1,5 @@
+Version 0.3.1
+ Little Fix
 Version 0.3
  Login is implemented
 Version 0.2

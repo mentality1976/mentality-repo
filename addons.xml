@@ -61,10 +61,10 @@
 
 <addon id="plugin.video.Beeg"
        name="Beeg.com"
-       version="0.2"
+       version="0.2.1"
        provider-name="Mentality">
   <requires>
-    <import addon="xbmc.python" version="1.0"/>
+    <import addon="xbmc.python" version="2.1.0"/>
 	  </requires>
   <extension point="xbmc.python.pluginsource"
             library="default.py">
@@ -82,10 +82,10 @@
 
 <addon id="plugin.video.Dokuhouse"
        name="Dokuhouse"
-       version="0.5"
+       version="0.5.1"
        provider-name="Mentality">
   <requires>
-    <import addon="xbmc.python" version="1.0"/>
+    <import addon="xbmc.python" version="2.1.0"/>
 	  </requires>
   <extension point="xbmc.python.pluginsource"
             library="default.py">
@@ -131,10 +131,10 @@ Mentality and EVONIC are presenting!!!</description>
 
 <addon id="plugin.video.MLE-HD"
        name="MLE-HD"
-       version="0.3"
+       version="0.3.1"
        provider-name="Mentality">
   <requires>
-    <import addon="xbmc.python" version="1.0"/>
+    <import addon="xbmc.python" version="2.1.0"/>
     <import addon="script.module.beautifulsoup" version="3.2.0"/>
 	  </requires>
   <extension point="xbmc.python.pluginsource"
