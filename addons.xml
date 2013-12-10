@@ -21,7 +21,7 @@
 
 <addon id="plugin.audio.CatlaEmi"
        name="CatlaEmi"
-       version="0.2.1"
+       version="0.2.2"
        provider-name="Mentality">
     <requires>
         <import addon="xbmc.python" version="2.1.0"/>
@@ -34,7 +34,8 @@
     </extension>
     <extension point="xbmc.addon.metadata">
         <summary>Mentality stellt vor</summary>
-        <description>Fare ile sag tikla, download mp3 yada download album. Evet artik indirebiliyorsunuz :-) !!!
+        <description>Hexupload Kiciklik yapti, ama SIKINTI yok.
+Fare ile sag tikla, download mp3 yada download album. Evet artik indirebiliyorsunuz :-) !!!
 ~~~Mentality wuenscht euch viel Spass~~~</description>
         <platform>all</platform>
     </extension>
