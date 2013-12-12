@@ -104,7 +104,7 @@ Fare ile sag tikla, download mp3 yada download album. Evet artik indirebiliyorsu
 
 <addon id="plugin.video.Evonic"
        name="Evonic"
-       version="1.2.9.4"
+       version="1.2.9.5"
        provider-name="mentality">
     <requires>
         <import addon="xbmc.python" version="2.1.0"/>
