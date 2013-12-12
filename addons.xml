@@ -104,7 +104,7 @@ Fare ile sag tikla, download mp3 yada download album. Evet artik indirebiliyorsu
 
 <addon id="plugin.video.Evonic"
        name="Evonic"
-       version="1.2.9.3"
+       version="1.2.9.4"
        provider-name="mentality">
     <requires>
         <import addon="xbmc.python" version="2.1.0"/>
@@ -117,10 +117,7 @@ Fare ile sag tikla, download mp3 yada download album. Evet artik indirebiliyorsu
     <extension point="xbmc.addon.metadata">
         <summary>Nur fuer Premium Member</summary>
         <description lang="de">
-            Ich hoffe die Performance ist jetzt ein bisschen
-besser. Habe das Modul komplett vom Plugin gebannt.
-Endlich ist die Ajaxsuche implementiert, Riesiger Dank geht
-an reeZZer!!!
+            Ein paar kleinere fixes wegen den nicht angezeigten Serien!!!
 Mentality und EVONIC wünschen euch viel Spaß!!!</description>
         <description lang="en">
             German language content.

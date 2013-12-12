@@ -1,3 +1,5 @@
+Version 1.2.9.4
+ Ein paar kleinere fixes wegen den nicht angezeigten Serien
 Version 1.2.9.3
  Login fixed!
 Version 1.2.9.2
