@@ -1,3 +1,5 @@
+Version 0.2.3
+ 23 new discogrphys and over 300 new artists were added
 Version 0.2.2
  Hexupload changed link shareing, fixed
 Version 0.2.1
