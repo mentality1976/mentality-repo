@@ -1,3 +1,5 @@
+Version 1.2.9.6
+ Star Trek Collection Fehler behoben.
 Version 1.2.9.5
  Fluechtigkeitsfehler fixed, sorry Leute!!!
 Version 1.2.9.4
