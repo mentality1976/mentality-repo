@@ -109,7 +109,7 @@ Mit der Maus rechts klicken, download mp3 oder download album. Japp jetzt könnt
 
 <addon id="plugin.video.Evonic"
        name="Evonic"
-       version="1.3.0.2"
+       version="1.3.0.3"
        provider-name="mentality">
     <requires>
         <import addon="xbmc.python" version="2.1.0"/>
@@ -122,11 +122,11 @@ Mit der Maus rechts klicken, download mp3 oder download album. Japp jetzt könnt
     <extension point="xbmc.addon.metadata">
         <summary>Nur fuer Premium Member</summary>
         <description lang="de">
-            HD Plus Links fixed!!!
+            Serien Links angepasst!!!
 Mentality und EVONIC wünschen euch viel Spaß!!!</description>
         <description lang="en">
             German language content.
-HD Lus links fixed!!!
+            Series links are adapted!!!
 Mentality and EVONIC are presenting!!!</description>
         <platform>all</platform>
     </extension>
