@@ -1,4 +1,6 @@
-Version 1.3.0.3
+Version 1.3.0.4
+ Series links are adapted.
+ Version 1.3.0.3
  Series links are adapted.
 Version 1.3.0.2
  HD Plus links fixed.
