@@ -1,0 +1,121 @@
+#EXTM3U
+#EXTINF:-1,ATV m3u8 720*576 myvideo.az
+http://hls01-01.az.myvideo.az/hls-live/livepkgr/atvturk/atvturk/atvturk.m3u8?&ujtYyerHHTEhI74NyU;
+#EXTINF:-1,FOX m3u8 720*576 myvideo.az
+http://hls01-09.az.myvideo.az/hls-live/livepkgr/foxturk/foxturk/foxturk.m3u8?&ujtYyerHHTEhI74NyU;
+#EXTINF:-1,HABERTURK m3u8 720*576 myvideo.az
+http://hls01-08.az.myvideo.az/hls-live/livepkgr/haberturk/haberturk/haberturk.m3u8?&ujtYyerHHTEhI74NyU;
+#EXTINF:-1,Kanal 7 m3u8 720*576 myvideo.az
+http://hls01-04.az.myvideo.az/hls-live/livepkgr/kanal7/kanal7/kanal7.m3u8?&ujtYyerHHTEhI74NyU;
+#EXTINF:-1,KANALTURK m3u8 720*576 myvideo.az
+http://hls01-08.az.myvideo.az/hls-live/livepkgr/kanalturk/kanalturk/kanalturk.m3u8?&ujtYyerHHTEhI74NyU;
+#EXTINF:-1,KRAL TV m3u8 720*576 myvideo.az
+http://hls01-04.az.myvideo.az/hls-live/livepkgr/kral/kral/kral.m3u8?&ujtYyerHHTEhI74NyU;
+#EXTINF:-1,NTV m3u8 720*576 myvideo.az
+http://hls01-08.az.myvideo.az/hls-live/livepkgr/canlintv/canlintv/canlintv.m3u8?&ujtYyerHHTEhI74NyU;
+#EXTINF:-1,NTV SPOR m3u8 720*576 myvideo.az
+http://hls01-08.az.myvideo.az/hls-live/livepkgr/ntvspor/ntvspor/ntvspor.m3u8?&ujtYyerHHTEhI74NyU;
+#EXTINF:-1,SHOW MAX m3u8 720*576 myvideo.az
+http://hls01-03.az.myvideo.az/hls-live/livepkgr/showmax/showmax/showmax.m3u8?&ujtYyerHHTEhI74NyU;
+#EXTINF:-1,SHOW TV m3u8 720*576 myvideo.az
+http://hls01-09.az.myvideo.az/hls-live/livepkgr/showtv/showtv/showtv.m3u8?&ujtYyerHHTEhI74NyU;
+#EXTINF:-1,Sports TV m3u8 720*576 myvideo.az
+http://hls01-04.az.myvideo.az/hls-live/livepkgr/sport1/sport1/sport1.m3u8?&ujtYyerHHTEhI74NyU;
+#EXTINF:-1,STAR TV m3u8 720*576 myvideo.az
+http://hls01-04.az.myvideo.az/hls-live/livepkgr/startv/startv/startv.m3u8?&ujtYyerHHTEhI74NyU;
+#EXTINF:-1,TMB TV m3u8 720*576 myvideo.az
+http://hls01-08.az.myvideo.az/hls-live/livepkgr/tmbtv/tmbtv/tmbtv.m3u8?&ujtYyerHHTEhI74NyU;
+#EXTINF:-1,TRT 1 m3u8 720*576 myvideo.az
+http://hls01-08.az.myvideo.az/hls-live/livepkgr/trt1/trt1/trt1.m3u8?&ujtYyerHHTEhI74NyU;
+#EXTINF:-1,TV 360 m3u8 720*576 myvideo.az
+http://hls01-08.az.myvideo.az/hls-live/livepkgr/skyturk/skyturk/skyturk.m3u8?&ujtYyerHHTEhI74NyU;
+#EXTINF:-1,TV 5 m3u8 720*576 myvideo.az
+http://hls01-05.az.myvideo.az/hls-live/livepkgr/tv5/tv5/tv5.m3u8?&ujtYyerHHTEhI74NyU;
+#EXTINF:-1,TV 8 m3u8 720*576 myvideo.az
+http://hls01-03.az.myvideo.az/hls-live/livepkgr/tv8/tv8/tv8.m3u8?&ujtYyerHHTEhI74NyU;
+#EXTINF:-1,YABAN TV m3u8 720*576 myvideo.az
+http://hls01-03.az.myvideo.az/hls-live/livepkgr/yabantv/yabantv/yabantv.m3u8?&ujtYyerHHTEhI74NyU;
+#EXTINF:-1,YUMURCAK TV m3u8 720*576 myvideo.az
+http://hls01-07.az.myvideo.az/hls-live/livepkgr/yumurcak/yumurcak/yumurcak.m3u8?&ujtYyerHHTEhI74NyU;
+#EXTINF:-1,24 TV- 720*576 rtmp myvideo.az
+rtmp://edge04-09.az.myvideo.az/dvrh264/kanal24/ playpath=mp4:kanal24 swfUrl=http://www.myvideo.az/dvr/dvrManual4.swf?v=1.91 live=1 
+#EXTINF:-1,360  - 720*576 rtmp myvideo.az
+rtmp://edge04-08.az.myvideo.az/dvrh264/skyturk/ playpath=mp4:skyturk swfUrl=http://www.myvideo.az/dvr/dvrManual4.swf?v=1.91 live=1 
+#EXTINF:-1,360  - 720*576 rtmp myvideo.az
+rtmp://edge04-08.az.myvideo.az/dvrh264/skyturk/ playpath=mp4:skyturk swfUrl=http://www.myvideo.az/dvr/dvrManual4.swf?v=1.91 live=1 pageUrl=http://www.myvideo.az/?act=dvr&chan=skyturk
+#EXTINF:-1,ATV - 720*576 rtmp myvideo.az
+rtmp://edge03-01.az.myvideo.az/dvrh264/atvturk/ playpath=mp4:atvturk swfUrl=http://www.myvideo.az/dvr/dvrManual4.swf?v=1.91 live=1 pageUrl=http://www.myvideo.az/?act=dvr&chan=atvturk
+#EXTINF:-1,CARTOON NETWORK- 720*576 rtmp myvideo.az
+rtmp://edge04-09.az.myvideo.az/dvrh264/cartoon/mp4:cartoon swfUrl=http://www.myvideo.az/dvr/dvrManual4.swf?v=1.91 live=1 pageUrl=http://www.myvideo.az/?act=dvr&chan=cartoon
+#EXTINF:-1,FOX - 720*576 rtmp myvideo.az
+rtmp://edge04-09.az.myvideo.az/dvrh264/foxturk/ playpath=mp4:foxturk swfUrl=http://www.myvideo.az/dvr/dvrManual4.swf?v=1.91 live=1 pageUrl=http://www.myvideo.az/?act=dvr&chan=foxturk
+#EXTINF:-1,HABER TüRK - 720*576 rtmp myvideo.az
+rtmp://edge03-08.az.myvideo.az/dvrh264/haberturk/ playpath=mp4:haberturk swfUrl=http://www.myvideo.az/dvr/dvrManual4.swf?v=1.91 live=1 pageUrl=http://www.myvideo.az/?act=dvr&chan=haberturk
+#EXTINF:-1,KANAL 7 - 720*576 rtmp myvideo.az
+rtmp://edge03-04.az.myvideo.az/dvrh264/kanal7/ playpath=mp4:kanal7 swfUrl=http://www.myvideo.az/dvr/dvrManual4.swf?v=1.91 live=1 pageUrl=http://www.myvideo.az/?act=dvr&chan=kanal7
+#EXTINF:-1,KANAL D - 720*576 rtmp myvideo.az
+rtmp://edge03-01.az.myvideo.az/dvrh264/canald/canald swfUrl=http://www.myvideo.az/dvr/dvrManual4.swf live=1 pageUrl=http://www.myvideo.az/?act=dvr&chan=canald
+#EXTINF:-1,Kanal D - 720*576 rtmp myvideo.az
+rtmp://edge04-01.az.myvideo.az/dvrh264/canald/ playpath=mp4:canald swfUrl=http://www.myvideo.az/dvr/dvrManual4.swf?v=1.91 live=1 pageUrl=http://www.myvideo.az/?act=dvr&chan=canald
+#EXTINF:-1,Kanal D m3u8 720*576 myvideo.az
+http://hls01-01.az.myvideo.az/hls-live/livepkgr/canald/canald/canald.m3u8?&ujtYyerHHTEhI74NyU;
+#EXTINF:-1,KANAL TüRK - 720*576 rtmp myvideo.az
+rtmp://edge04-08.az.myvideo.az/dvrh264/kanalturk/ playpath=mp4:kanalturk swfUrl=http://www.myvideo.az/dvr/dvrManual4.swf?v=1.91 live=1 pageUrl=http://www.myvideo.az/?act=dvr&chan=kanalturk
+#EXTINF:-1,NTV - 720*576 rtmp myvideo.az
+rtmp://edge04-08.az.myvideo.az/dvrh264/canlintv/ playpath=mp4:canlintv swfUrl=http://www.myvideo.az/dvr/dvrManual4.swf?v=1.91 live=1 pageUrl=http://www.myvideo.az/?act=dvr&chan=canlintv
+#EXTINF:-1,PLANET MUTFAK- 720*576 rtmp myvideo.az
+rtmp://edge04-07.az.myvideo.az/dvrh264/planetsinema/ playpath=mp4:planetsinema swfUrl=http://www.myvideo.az/dvr/dvrManual4.swf?v=1.91 live=1 pageUrl=http://www.myvideo.az/?act=dvr&chan=planetsinema
+#EXTINF:-1,PLANET MUTFAK- 720*576 rtmp myvideo.az
+rtmp://edge04-07.az.myvideo.az/dvrh264/planetsinema/ playpath=mp4:planetsinema swfUrl=http://www.myvideo.az/dvr/dvrManual4.swf?v=1.91 live=1 pageUrl=http://www.myvideo.az/?act=dvr&chan=planetsinema
+#EXTINF:-1,PLANET PEMBE -320*240 rtmp
+rtmp://77.223.146.117/live/planetp
+#EXTINF:-1,PLANET PEMBE- 720*576 rtmp myvideo.az
+rtmp://edge04-07.az.myvideo.az/dvrh264/planetpembe/ playpath=mp4:planetpembe swfUrl=http://www.myvideo.az/dvr/dvrManual4.swf?v=1.91 live=1 pageUrl=http://www.myvideo.az/?act=dvr&chan=planetpembe
+#EXTINF:-1,PLANET TüRK - 720*576 rtmp myvideo.az
+rtmp://edge04-07.az.myvideo.az/dvrh264/planetturk/ playpath=mp4:planetturk swfUrl=http://www.myvideo.az/dvr/dvrManual4.swf?v=1.91 live=1 pageUrl=http://www.myvideo.az/?act=dvr&chan=planetturk
+#EXTINF:-1,PLANET TURK m3u8 720*576 myvideo.az
+http://hls01-07.az.myvideo.az/hls-live/livepkgr/planetturk/planetturk/planetturk.m3u8?&ujtYyerHHTEhI74NyU;
+#EXTINF:-1,SHOW TV - 720*576 rtmp myvideo.az
+rtmp://edge04-09.az.myvideo.az/dvrh264/showtv/ playpath=mp4:showtv swfUrl=http://www.myvideo.az/dvr/dvrManual4.swf?v=1.91 live=1 pageUrl=http://www.myvideo.az/?act=dvr&chan=showtv
+#EXTINF:-1,STAR TV - 720*576 rtmp myvideo.az
+rtmp://edge04-04.az.myvideo.az/dvrh264/startv/startv swfUrl=http://www.myvideo.az/dvr/dvrManual4.swf live=1 pageUrl=http://www.myvideo.az/?act=dvr&chan=startv
+#EXTINF:-1,STAR TV - 720*576 rtmp myvideo.az
+rtmp://edge03-04.az.myvideo.az/dvrh264/startv/ playpath=mp4:startv swfUrl=http://www.myvideo.az/dvr/dvrManual4.swf?v=1.91 live=1 pageUrl=http://www.myvideo.az/?act=dvr&chan=startv
+#EXTINF:-1,TMB TV - 720*576 rtmp myvideo.az
+rtmp://edge03-07.az.myvideo.az/dvrh264/tmbtv/ playpath=mp4:tmbtv swfUrl=http://www.myvideo.az/dvr/dvrManual4.swf?v=1.91 live=1 pageUrl=http://www.myvideo.az/?act=dvr&chan=tmbtv
+#EXTINF:-1,TRT 1  - 720*576 rtmp myvideo.az
+rtmp://edge03-08.az.myvideo.az/dvrh264/trt1/ playpath=mp4:trt1 swfUrl=http://www.myvideo.az/dvr/dvrAvatar7.swf?v=1.91 live=1 pageUrl=http://www.myvideo.az
+#EXTINF:-1,TRT 1 - 720*576 rtmp myvideo.az
+rtmp://edge04-08.az.myvideo.az/dvrh264/trt1/ playpath=mp4:trt1 swfUrl=http://www.myvideo.az/dvr/dvrManual4.swf?v=1.91 live=1 pageUrl=http://www.myvideo.az/?act=dvr&chan=trt1
+#EXTINF:-1,TRT 3 - 720*576 rtmp myvideo.az
+rtmp://edge04-08.az.myvideo.az/dvrh264/trt3/ playpath=mp4:trt3 swfUrl=http://www.myvideo.az/dvr/dvrManual4.swf?v=1.91 live=1 pageUrl=http://www.myvideo.az/?act=dvr&chan=trt3
+#EXTINF:-1,TRT AVAZ - 720*576 rtmp myvideo.az
+rtmp://edge04-10.az.myvideo.az/dvrh264/trtavaz/ playpath=mp4:trtavaz swfUrl=http://www.myvideo.az/dvr/dvrManual4.swf?v=1.91 live=1 pageUrl=http://www.myvideo.az/?act=dvr&chan=trtavaz
+#EXTINF:-1,TRT AVAZ - 720*576 rtmp myvideo.az
+rtmp://edge03-10.az.myvideo.az/dvrh264/trtavaz/ playpath=mp4:trtavaz swfUrl=http://www.myvideo.az/dvr/dvrManual4.swf?v=1.91 live=1 pageUrl=http://www.myvideo.az/?act=dvr&chan=trtavaz
+#EXTINF:-1,TRT AVAZ m3u8 720*576 myvideo.az
+http://hls01-04.az.myvideo.az/hls-live/livepkgr/trtavaz/trtavaz/trtavaz.m3u8?&ujtYyerHHTEhI74NyU;
+#EXTINF:-1,TRT COCUK - 720*576 rtmp myvideo.az
+rtmp://edge03-08.az.myvideo.az/dvrh264/trtcocuk/ playpath=mp4:trtcocuk swfUrl=http://www.myvideo.az/dvr/dvrManual4.swf?v=1.91 live=1 pageUrl=http://www.myvideo.az/?act=dvr&chan=trtcocuk
+#EXTINF:-1,TRT COCUK m3u8 720*576 myvideo.az
+http://hls01-08.az.myvideo.az/hls-live/livepkgr/trtcocuk/trtcocuk/trtcocuk.m3u8?&ujtYyerHHTEhI74NyU;
+#EXTINF:-1,TRT HABER m3u8 720*576 myvideo.az
+http://hls01-08.az.myvideo.az/hls-live/livepkgr/haberturk/haberturk/haberturk.m3u8?&ujtYyerHHTEhI74NyU;
+#EXTINF:-1,TRT HABER rtmp
+rtmp://edge03-08.az.myvideo.az/dvrh264/haberturk/ playpath=mp4:haberturk swfUrl=http://www.myvideo.az/dvr/dvrManual4.swf?v=1.91 live=1 pageUrl=http://www.myvideo.az/?act=dvr&chan=haberturk
+#EXTINF:-1,TRT OKUL - 720*576 rtmp myvideo.az
+rtmp://edge04-03.az.myvideo.az/dvrh264/okul/ playpath=mp4:okul swfUrl=http://www.myvideo.az/dvr/dvrManual4.swf?v=1.91 live=1 pageUrl=http://www.myvideo.az/?act=dvr&chan=okul
+#EXTINF:-1,TRT OKUL m3u8 720*576 myvideo.az
+http://hls01-03.az.myvideo.az/hls-live/livepkgr/okul/okul/okul.m3u8?&ujtYyerHHTEhI74NyU;
+#EXTINF:-1,TRT SPOR m3u8 720*576 myvideo.az
+http://hls01-08.az.myvideo.az/hls-live/livepkgr/trt3/trt3/trt3.m3u8?&ujtYyerHHTEhI74NyU;
+#EXTINF:-1,TRT TÜRK- 720*576 rtmp myvideo.az
+rtmp://edge04-09.az.myvideo.az/dvrh264/trtturk/ playpath=mp4:trtturk swfUrl=http://www.myvideo.az/dvr/dvrManual4.swf?v=1.91 live=1 pageUrl=http://www.myvideo.az/?act=dvr&chan=trtturk
+#EXTINF:-1,TRT TURK m3u8 720*576 myvideo.az
+http://hls01-09.az.myvideo.az/hls-live/livepkgr/trtturk/trtturk/trtturk.m3u8?&ujtYyerHHTEhI74NyU;
+#EXTINF:-1,TV 8 - 720*576 rtmp myvideo.az
+rtmp://edge03-03.az.myvideo.az/dvrh264/tv8/ playpath=mp4:tv8 swfUrl=http://www.myvideo.az/dvr/dvrManual4.swf?v=1.91 live=1 pageUrl=http://www.myvideo.az/?act=dvr&chan=tv8
+#EXTINF:-1,YABAN TV - 720*576 rtmp myvideo.az
+rtmp://edge03-03.az.myvideo.az/dvrh264/yabantv/ playpath=mp4:yabantv swfUrl=http://www.myvideo.az/dvr/dvrManual4.swf?v=1.91 live=1 pageUrl=http://www.myvideo.az/?act=dvr&chan=yabantv
+#EXTINF:-1,YUMURCAK - 720*576 rtmp myvideo.az
+rtmp://edge04-07.az.myvideo.az/dvrh264/yumurcak/ playpath=mp4:yumurcak swfUrl=http://www.myvideo.az/dvr/dvrManual4.swf?v=1.91 live=1 pageUrl=http://www.myvideo.az/?act=dvr&chan=yumurcak
