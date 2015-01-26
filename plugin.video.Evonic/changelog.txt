@@ -1,3 +1,5 @@
+Version 1.3.0.6
+ Fixes in the section collections.
 Version 1.3.0.5
  Fixes in the sections series and collections.
 Version 1.3.0.4
