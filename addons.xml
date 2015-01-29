@@ -135,7 +135,7 @@ Mentality and EVONIC are presenting!!!</description>
 
 <addon id="plugin.video.IPTVINT"
        name="IPTVINT"
-       version="0.1"
+       version="0.2"
        provider-name="Mentality">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
