@@ -1,3 +1,5 @@
+Version 0.5.3
+ It's running again!
 Version 0.5.2
  little bugfix
 Version 0.5.1
