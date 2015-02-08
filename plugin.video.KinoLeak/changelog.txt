@@ -1,3 +1,5 @@
+Version 0.1.2
+ Fixing encoding!
 Version 0.1.1
  Testing with encoding for all plattforms.
 Version 0.1
