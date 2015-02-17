@@ -1,3 +1,5 @@
+Version 0.1.5
+ Images updated!
 Version 0.1.4
  API implemented and optimized plugin.
 Version 0.1.3
