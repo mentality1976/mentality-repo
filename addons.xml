@@ -153,7 +153,7 @@ Mentality and EVONIC are presenting!!!</description>
 
 <addon id="plugin.video.KinoLeak"
        name="KinoLeak"
-       version="0.1.6"
+       version="0.1.6.1"
        provider-name="Mentality">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
@@ -170,11 +170,11 @@ Mentality and EVONIC are presenting!!!</description>
   <extension point="xbmc.addon.metadata">
     <summary>Mentality stellt vor</summary>
         <description lang="de">
-            Unabhängige Datenbank Funktion eingepflegt.
-            Mentality wünscht viel Spaß!</description>
+Unabhängige Datenbank Funktion eingepflegt.
+Mentality wünscht viel Spaß!</description>
         <description lang="en">
-            German language content.
-            With own Database, thx to Eldorado!
+German language content.
+With own Database, thx to Eldorado!
 Mentality is presenting!!!</description>
     <platform>all</platform>
   </extension>
