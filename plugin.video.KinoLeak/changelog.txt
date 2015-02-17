@@ -1,4 +1,4 @@
-Version 0.1.6.1
+Version 0.1.7
  Fix!
 Version 0.1.6
  Own database implemented!
