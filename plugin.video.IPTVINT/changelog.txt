@@ -1,6 +1,0 @@
-Version 0.2
- TURK TV added!
-Version 0.1
- initial
-
-Version 
