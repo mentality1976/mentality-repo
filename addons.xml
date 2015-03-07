@@ -1,22 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addons>
-<addon id="mentality.repo"
-		name="MENTALITY Eklenti Deposu"
-		version="0.0.2"
-		provider-name="MENTALITY">
-	<extension point="xbmc.addon.repository" name="MENTALITY Add-on Repository">
-		<info compressed="false">http://mentality-repo.googlecode.com/svn/trunk/addons.xml</info>
-		<checksum>http://mentality-repo.googlecode.com/svn/trunk/addons.xml.md5</checksum>
-		<datadir zip="true">http://mentality-repo.googlecode.com/svn/trunk/</datadir>
-	</extension>
-	<extension point="xbmc.addon.metadata">
-		<summary lang="en">Add-ons for KODI with german content!</summary>
-		<summary lang="tr">MENTALITY Kurulum ve Güncelleme Deposu.</summary>
-		<description lang="en">Video plug-ins and Movie info scrapers for KODI</description>
-		<description lang="de">Paar deutschsprachige Addons für KODI</description>
-		<disclaimer lang="de">MENTALITY's KODI plugins</disclaimer>
-		<platform>all</platform>
-	</extension>
+<addon id="plugin.video.Dokuhouse"
+       name="Dokuhouse"
+       version="0.5.3"
+       provider-name="Mentality">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.beautifulsoup" version="3.0.8"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource"
+            library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>Mentality stellt vor</summary>
+    <description lang="de">Es funktioniert wieder!
+~~~Mentality wünscht euch viel Spaß~~~</description>
+    <description lang="en">It's running again!
+~~~Have Fun!!! Mentality~~~</description>
+    <platform>all</platform>
+  </extension>
 </addon>
 
 <addon id="plugin.audio.musicstream"
@@ -38,6 +41,51 @@
   </extension>
 </addon>
 
+<addon id="plugin.video.KinoLeak"
+       name="KinoLeak"
+       version="0.1.9"
+       provider-name="Mentality">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <!-- <import addon="script.module.t0mm0.common" version="1.0.0"/> -->
+    <!-- <import addon="script.module.metahandler" version="2.5.1"/> -->
+    <import addon="script.module.simplejson" version="3.3.0"/>
+    <import addon="script.module.addon.common" version="2.0.0"/>
+    <import addon="script.module.myconnpy" version="1.1.6"/>
+	  </requires>
+  <extension point="xbmc.python.pluginsource"
+            library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>Mentality stellt vor</summary>
+        <description lang="de">
+            Datenbank Funktion eingepflegt.[CR]Suchfunktion eingepflegt.[CR]Mentality wünscht viel Spaß!</description>
+        <description lang="en">
+            German language content.[CR]Own Database implemented.[CR]Search implemented![CR]Mentality is presenting!!!</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="mentality.repo"
+		name="MENTALITY Eklenti Deposu"
+		version="0.0.2"
+		provider-name="MENTALITY">
+	<extension point="xbmc.addon.repository" name="MENTALITY Add-on Repository">
+		<info compressed="false">http://mentality-repo.googlecode.com/svn/trunk/addons.xml</info>
+		<checksum>http://mentality-repo.googlecode.com/svn/trunk/addons.xml.md5</checksum>
+		<datadir zip="true">http://mentality-repo.googlecode.com/svn/trunk/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">Add-ons for KODI with german content!</summary>
+		<summary lang="tr">MENTALITY Kurulum ve Güncelleme Deposu.</summary>
+		<description lang="en">Video plug-ins and Movie info scrapers for KODI</description>
+		<description lang="de">Paar deutschsprachige Addons für KODI</description>
+		<disclaimer lang="de">MENTALITY's KODI plugins</disclaimer>
+		<platform>all</platform>
+	</extension>
+</addon>
+
 <addon id="plugin.video.Beeg"
        name="Beeg.com"
        version="0.2.1"
@@ -54,28 +102,6 @@
     <description lang="de">Suche wurde implementiert
 ~~~Mentality wünscht euch viel Spaß~~~</description>
     <description lang="en">Search was implemented
-~~~Have Fun!!! Mentality~~~</description>
-    <platform>all</platform>
-  </extension>
-</addon>
-
-<addon id="plugin.video.Dokuhouse"
-       name="Dokuhouse"
-       version="0.5.3"
-       provider-name="Mentality">
-  <requires>
-    <import addon="xbmc.python" version="2.1.0"/>
-    <import addon="script.module.beautifulsoup" version="3.0.8"/>
-  </requires>
-  <extension point="xbmc.python.pluginsource"
-            library="default.py">
-        <provides>video</provides>
-  </extension>
-  <extension point="xbmc.addon.metadata">
-    <summary>Mentality stellt vor</summary>
-    <description lang="de">Es funktioniert wieder!
-~~~Mentality wünscht euch viel Spaß~~~</description>
-    <description lang="en">It's running again!
 ~~~Have Fun!!! Mentality~~~</description>
     <platform>all</platform>
   </extension>
@@ -105,31 +131,5 @@ Mentality und EVONIC wünschen euch viel Spaß!!!</description>
 Mentality and EVONIC are presenting!!!</description>
         <platform>all</platform>
     </extension>
-</addon>
-
-<addon id="plugin.video.KinoLeak"
-       name="KinoLeak"
-       version="0.1.8"
-       provider-name="Mentality">
-  <requires>
-    <import addon="xbmc.python" version="2.1.0"/>
-    <!-- <import addon="script.module.t0mm0.common" version="1.0.0"/> -->
-    <!-- <import addon="script.module.metahandler" version="2.5.1"/> -->
-    <import addon="script.module.simplejson" version="3.3.0"/>
-    <import addon="script.module.addon.common" version="2.0.0"/>
-    <import addon="script.module.myconnpy" version="1.1.6"/>
-	  </requires>
-  <extension point="xbmc.python.pluginsource"
-            library="default.py">
-        <provides>video</provides>
-  </extension>
-  <extension point="xbmc.addon.metadata">
-    <summary>Mentality stellt vor</summary>
-        <description lang="de">
-            Datenbank Funktion eingepflegt.[CR]Suchfunktion eingepflegt.[CR]Mentality wünscht viel Spaß!</description>
-        <description lang="en">
-            German language content.[CR]Own Database implemented.[CR]Search implemented![CR]Mentality is presenting!!!</description>
-    <platform>all</platform>
-  </extension>
 </addon>
 </addons>
