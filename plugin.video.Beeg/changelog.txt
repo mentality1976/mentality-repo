@@ -1,3 +1,5 @@
+Version 0.2.2
+ New links with multiple quality source!
 Version 0.2.1
  Little fix
 Version 0.1
