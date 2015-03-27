@@ -1,4 +1,10 @@
-Version 0.1
+Version 0.5.2
+ Download Function, create playlists for Albums with .m3u format, create mixed playlists and add and delete options for playlists implemented.
+Version 0.5.1
+ Extra python scripts for dowmloading integrated in default.py.
+Version 0.5
+ Addon runs again, this time with download functions!
+Version 0.4
  initial
 
-Version 
+Version
