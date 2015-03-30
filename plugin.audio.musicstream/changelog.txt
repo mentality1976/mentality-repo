@@ -1,5 +1,7 @@
+Version 0.5.3
+ Fixed!
 Version 0.5.2
- Download Function, create playlists for Albums with .m3u format, create mixed playlists and add and delete options for playlists implemented.
+ Fixed!
 Version 0.5.1
  Extra python scripts for dowmloading integrated in default.py.
 Version 0.5
