@@ -1,3 +1,5 @@
+Version 0.2.4
+ Cloudyvideos and mightyupload are fixed!
 Version 0.2.3
  Cloudyvideos fixed!
 Version 0.2.2

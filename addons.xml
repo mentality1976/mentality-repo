@@ -19,6 +19,26 @@
 	</extension>
 </addon>
 
+<addon id="plugin.audio.mp3indirdur"
+       name="mp3indirdur"
+       version="0.1.1"
+       provider-name="Mentality">
+    <requires>
+        <import addon="xbmc.python" version="2.1.0"/>
+        <import addon="script.module.beautifulsoup" version="3.2.0"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource"
+        library="default.py">
+        <provides>audio</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>Mentality stellt vor</summary>
+        <description lang="de">Türkische Musik[CR]~~~Mentality wünscht euch viel Spaß~~~</description>
+        <description lang="en">Turkish music[CR]~~~Have Fun!!! Mentality~~~</description>
+        <platform>all</platform>
+    </extension>
+</addon>
+
 <addon id="plugin.audio.musicstream"
        name="musicstream.cc"
        version="0.5.3"
@@ -38,26 +58,6 @@
     <description lang="en">It runs again, with download funtions.[CR]Mentality presents!</description>
     <platform>all</platform>
   </extension>
-</addon>
-
-<addon id="plugin.audio.mp3indirdur"
-       name="mp3indirdur"
-       version="0.1.1"
-       provider-name="Mentality">
-    <requires>
-        <import addon="xbmc.python" version="2.1.0"/>
-        <import addon="script.module.beautifulsoup" version="3.2.0"/>
-    </requires>
-    <extension point="xbmc.python.pluginsource"
-        library="default.py">
-        <provides>audio</provides>
-    </extension>
-    <extension point="xbmc.addon.metadata">
-        <summary>Mentality stellt vor</summary>
-        <description lang="de">Türkische Musik[CR]~~~Mentality wünscht euch viel Spaß~~~</description>
-        <description lang="en">Turkish music[CR]~~~Have Fun!!! Mentality~~~</description>
-        <platform>all</platform>
-    </extension>
 </addon>
 
 <addon id="plugin.video.Beeg"
@@ -81,30 +81,6 @@
   </extension>
 </addon>
 
-<addon id="plugin.video.KinoLeak"
-       name="KinoLeak"
-       version="0.2.3"
-       provider-name="Mentality">
-  <requires>
-    <import addon="xbmc.python" version="2.1.0"/>
-    <import addon="script.module.simplejson" version="3.3.0"/>
-    <import addon="script.module.addon.common" version="2.0.0"/>
-    <import addon="script.module.myconnpy" version="1.1.6"/>
-      </requires>
-  <extension point="xbmc.python.pluginsource"
-            library="default.py">
-        <provides>video</provides>
-  </extension>
-  <extension point="xbmc.addon.metadata">
-    <summary>Mentality stellt vor</summary>
-        <description lang="de">
-            Cloudyvideos wurde angepasst.[CR]Mentality wünscht viel Spaß!</description>
-        <description lang="en">
-            German language content.[CR]Own Database implemented.[CR]Search implemented![CR]Mentality is presenting!!!</description>
-    <platform>all</platform>
-  </extension>
-</addon>
-
 <addon id="plugin.video.Dokuhouse"
        name="Dokuhouse"
        version="0.5.3"
@@ -123,6 +99,30 @@
 ~~~Mentality wünscht euch viel Spaß~~~</description>
     <description lang="en">It's running again!
 ~~~Have Fun!!! Mentality~~~</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="plugin.video.KinoLeak"
+       name="KinoLeak"
+       version="0.2.4"
+       provider-name="Mentality">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.simplejson" version="3.3.0"/>
+    <import addon="script.module.addon.common" version="2.0.0"/>
+    <import addon="script.module.myconnpy" version="1.1.6"/>
+      </requires>
+  <extension point="xbmc.python.pluginsource"
+            library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>Mentality stellt vor</summary>
+        <description lang="de">
+            Cloudyvideos wurde angepasst. Mightyupload funktioniert auch wieder[CR]Mentality wünscht viel Spaß!</description>
+        <description lang="en">
+            German language content.[CR]Own Database implemented.[CR]Search implemented![CR]Mentality is presenting!!!</description>
     <platform>all</platform>
   </extension>
 </addon>
