@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="mentality.repo" 
+<addon id="MENTALITY.repo" 
 		name="MENTALITY Eklenti Deposu" 
-		version="0.0.2" 
+		version="0.1.0" 
 		provider-name="MENTALITY">
 	<extension point="xbmc.addon.repository" name="MENTALITY Add-on Repository">
 		<info compressed="false">http://mentality-repo.googlecode.com/svn/trunk/addons.xml</info>
