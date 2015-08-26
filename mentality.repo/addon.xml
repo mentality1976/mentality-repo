@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="MENTALITY.repo" 
+<addon id="mentality.repo" 
 		name="MENTALITY Eklenti Deposu" 
 		version="0.1.0" 
 		provider-name="MENTALITY">
 	<extension point="xbmc.addon.repository" name="MENTALITY Add-on Repository">
-		<info compressed="false">http://mentality-repo.googlecode.com/svn/trunk/addons.xml</info>
-		<checksum>http://mentality-repo.googlecode.com/svn/trunk/addons.xml.md5</checksum>
-		<datadir zip="true">http://mentality-repo.googlecode.com/svn/trunk/</datadir>
+		<info compressed="false">https://raw.githubusercontent.com/mentality1976/mentality-repo/master/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/mentality1976/mentality-repo/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/mentality1976/mentality-repo/master/</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary lang="en">Add-ons for KODI with german content!</summary>
