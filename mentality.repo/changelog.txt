@@ -1,6 +1,0 @@
-0.1.0
-- Moved to GitHub
-0.0.2
-- Changes.
-0.0.1
-- Creation
