@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="MENTALITY.repo" 
+<addon id="mentality.repo" 
 		name="MENTALITY Eklenti Deposu" 
 		version="0.1.0" 
 		provider-name="MENTALITY">
