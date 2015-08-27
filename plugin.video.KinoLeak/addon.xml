@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="plugin.video.KinoLeak"
        name="KinoLeak"
-       version="0.2.4"
+       version="0.2.5"
        provider-name="Mentality">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
@@ -16,7 +16,7 @@
   <extension point="xbmc.addon.metadata">
     <summary>Mentality stellt vor</summary>
         <description lang="de">
-            Cloudyvideos wurde angepasst. Mightyupload funktioniert auch wieder[CR]Mentality wünscht viel Spaß!</description>
+            Cloudyvideos ist nicht defekt, die videos sind tatsächlich gelöscht. Openload funktioniert jetzt.[CR]Mentality wünscht viel Spaß!</description>
         <description lang="en">
             German language content.[CR]Own Database implemented.[CR]Search implemented![CR]Mentality is presenting!!!</description>
     <platform>all</platform>
