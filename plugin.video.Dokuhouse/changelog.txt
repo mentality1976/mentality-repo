@@ -1,3 +1,6 @@
+Version 0.5.4
+ 29.08.2015
+ Links are fixed.
 Version 0.5.3
  It's running again!
 Version 0.5.2

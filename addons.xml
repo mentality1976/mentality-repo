@@ -62,7 +62,7 @@
 
 <addon id="plugin.video.Beeg"
        name="Beeg.com"
-       version="0.2.2"
+       version="0.2.3"
        provider-name="Mentality">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
@@ -83,7 +83,7 @@
 
 <addon id="plugin.video.Dokuhouse"
        name="Dokuhouse"
-       version="0.5.3"
+       version="0.5.4"
        provider-name="Mentality">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>

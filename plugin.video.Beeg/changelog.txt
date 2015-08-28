@@ -1,3 +1,6 @@
+Version 0.2.3
+ 29.08.2015
+ Fixed whole plugin.
 Version 0.2.2
  New links with multiple quality source!
 Version 0.2.1
