@@ -1,3 +1,7 @@
+Version 0.5.5
+ 18.10.2015
+ Fixed album download!
+ Fixed adding album to MyLists!
 Version 0.5.4
  07.09.2015
  Broken links fixed!
