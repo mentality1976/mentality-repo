@@ -1,3 +1,5 @@
+Version 0.1.2
+ ID3-Tags would be cleared and with mutagen added real ID3-tag
 Version 0.1.1
  Fixed!
 Version 0.1

@@ -21,11 +21,12 @@
 
 <addon id="plugin.audio.mp3indirdur"
        name="mp3indirdur"
-       version="0.1.1"
+       version="0.1.2"
        provider-name="Mentality">
     <requires>
         <import addon="xbmc.python" version="2.1.0"/>
         <import addon="script.module.beautifulsoup" version="3.2.0"/>
+        <import addon="script.module.mutagen" version="1.22.0"/>
     </requires>
     <extension point="xbmc.python.pluginsource"
         library="default.py">
@@ -33,7 +34,7 @@
     </extension>
     <extension point="xbmc.addon.metadata">
         <summary>Mentality stellt vor</summary>
-        <description lang="de">Türkische Musik[CR]~~~Mentality wünscht euch viel Spaß~~~</description>
+        <description lang="de">Die ID3-Tags werden jetzt sauber geschrieben. Und Album-Cover auch.[CR]~~~Mentality wünscht euch viel Spaß~~~</description>
         <description lang="en">Turkish music[CR]~~~Have Fun!!! Mentality~~~</description>
         <platform>all</platform>
     </extension>
