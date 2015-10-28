@@ -1,3 +1,7 @@
+Version 0.2.4
+ 28.10.2015
+ Fixed again whole plugin.
+ Beeg.com changed Homepage.
 Version 0.2.3
  29.08.2015
  Fixed whole plugin.
